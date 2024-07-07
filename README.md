@@ -28,3 +28,5 @@ Installation: Download and install the Eye Gesture software on your computer.
 Setup: Follow the on-screen instructions to calibrate the eye-tracking system.
 Customization: Adjust the settings to fit your preferences and needs.
 Usage: Start controlling your mouse with eye movements and experience a new way of interacting with your computer.
+![image](https://github.com/Manzoor-22/AeroGesture/assets/110250967/c5ca04a1-0423-4836-93f4-3e64b388fc1f)
+
